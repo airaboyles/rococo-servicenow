@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="chore_priority" table="x_1317503_test_st_chore_chart" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>chore_priority</element>
+            <name>x_1317503_test_st_chore_chart</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-16 04:44:32</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>chore_priority</sys_name>
+            <sys_package display_value="Test" source="x_1317503_test">efbf780f9310021026f570a08bba107c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Test">efbf780f9310021026f570a08bba107c</sys_scope>
+            <sys_update_name>sys_choice_x_1317503_test_st_chore_chart_chore_priority</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-16 04:44:32</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chore_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>High</label>
+            <language>en</language>
+            <name>x_1317503_test_st_chore_chart</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-16 06:54:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-16 06:57:20</sys_updated_on>
+            <value/>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chore_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Normal</label>
+            <language>en</language>
+            <name>x_1317503_test_st_chore_chart</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-16 06:54:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-16 06:57:14</sys_updated_on>
+            <value/>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>chore_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Low</label>
+            <language>en</language>
+            <name>x_1317503_test_st_chore_chart</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-16 06:54:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-16 06:57:08</sys_updated_on>
+            <value>-- New choice --</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c49315839390021026f570a08bba105a" label="Chore Chart" max_length="40" name="x_1317503_test_st_chore_chart" type="collection">
+        <element choice="3" default="Low" label="Chore Priority" max_length="40" name="chore_priority" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="High"/>
+                <element inactive_on_update="false" label="Low" value="-- New choice --"/>
+                <element inactive_on_update="false" label="Normal"/>
+            </choice>
+        </element>
+        <element label="Complete" max_length="40" name="complete" reference="x_1317503_test_boolean" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Created" max_length="40" name="created" type="string"/>
+        <element label="Description" max_length="500" name="description" reference="x_1317503_test_max_char" type="string"/>
+        <element display="true" label="Title" mandatory="true" max_length="100" name="title" reference="x_1317503_test_max_char" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Updated" max_length="40" name="updated" type="string"/>
+    </element>
+</database>
